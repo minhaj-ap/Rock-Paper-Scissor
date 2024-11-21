@@ -1,6 +1,4 @@
 import random
-
-
 def gamePlay():
     options = ["rock", "paper", "scissor"]
     userScore = 0
